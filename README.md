@@ -8,7 +8,7 @@
 :small_orange_diamond: A web developer focusing on Wordpress website development.<br/>
 :small_orange_diamond: Based in Malaysia.<br/>
 :small_orange_diamond: Currently taking courses @ freecodecamp.<br/>
-:small_orange_diamond: Apart from being a developer, I love to go out for food hunting.</br>
+:small_orange_diamond: when i'm not in front of my screen, I probably working out or going out for food hunting.</br>
 :small_orange_diamond: A big fan of Iced Latte.
 
 ### :rocket: Languages and Tools<br/>
