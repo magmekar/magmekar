@@ -4,12 +4,15 @@
 </div>
 
 ---
-### Little Things About Me
-:girl: A web developer focusing on Wordpress website development<br/>
-:earth_asia: Based in Malaysia<br/>
+### :woman: Little Things About Me
+:small_orange_diamond: A web developer focusing on Wordpress website development.<br/>
+:small_orange_diamond: Based in Malaysia.<br/>
+:small_orange_diamond: Currently taking courses @ freecodecamp.<br/>
+:small_orange_diamond: Apart from being a developer, I love to go out for food hunting.</br>
+:small_orange_diamond: A big fan of Iced Latte.
 
-### Languages and Tools<br/>
-Here are some of the language/tools that I have learnt and used.
+### :rocket: Languages and Tools<br/>
+Here are some of the language/tools that I have learnt and use.
 <div id="techtools">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" />
@@ -24,7 +27,7 @@ Here are some of the language/tools that I have learnt and used.
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="50" />
 </div>
 
-### Let's Connect
+### :mailbox: Get In Touch
 <div id="badges">
 <a href="https://www.linkedin.com/in/magdelynamekar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 <a href="https://codepen.io/mkkr"><img src="https://img.shields.io/badge/Codepen-1E1F26?style=for-the-badge&logo=codepen&logoColor=white" ></a>
